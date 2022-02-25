@@ -54,7 +54,7 @@ Managed By @SONG_HYE_KYOOO
 
 A telegram bot to retrieve pyrograms and telethon string sessions by @nbzoning
 
-Group Support : [Gabung](https://t.me/OkaeriUserbot)
+Group Support : [Gabung](https://github.com/Alone45-45/String-Session-Generetor)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
