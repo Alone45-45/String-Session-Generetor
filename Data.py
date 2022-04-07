@@ -11,7 +11,7 @@ If you don't trust this bot,
 2) block bot or delete chat
 
 This Bot Works To Help You Get Session String Via Bot. Recommendations If You Want To Take String Use Another Account,
-Managed By @SONG_HYE_KYOOO
+Managed By @BEINGHEROX
     """
 
     # Home Button
@@ -27,7 +27,7 @@ Managed By @SONG_HYE_KYOOO
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("Start Generating Session", callback_data="generate")],
-        [InlineKeyboardButton("Maintaned By", url="https://t.me/SONG_HYE_KYOOO")],
+        [InlineKeyboardButton("Maintaned By", url="https://t.me/BEINGHEROX")],
         [
             InlineKeyboardButton("How to use me", callback_data="help"),
             InlineKeyboardButton("About", callback_data="about")
